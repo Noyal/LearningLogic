@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNLargestNumbers", "ConsoleApp2\FindNLargestNumbers.csproj", "{000B95DB-3827-4C6F-B25D-C5BC51CB0D8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNLargestNumbers", "FindNLargestNumbers\FindNLargestNumbers.csproj", "{000B95DB-3827-4C6F-B25D-C5BC51CB0D8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
